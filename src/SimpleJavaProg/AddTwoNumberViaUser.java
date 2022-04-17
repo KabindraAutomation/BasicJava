@@ -15,6 +15,7 @@ public class AddTwoNumberViaUser {
 		b= in.nextInt();
 		sum = a+b;
 		System.out.println("The sum of two number = "+ sum );
+		System.out.println("Git pushj");
 
 	}
 
